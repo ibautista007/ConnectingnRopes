@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
+import os, sys
+
 ropes = []
 num = int(input('Ingrese el numero de cuerdas que conectará:'))
 print ('Ingrese el tamaño: ')
